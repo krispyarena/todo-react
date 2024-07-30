@@ -77,7 +77,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [krispy.arena@gmail.com](mailto:krispy.arena@gmail.com)
+Krishna Pandey - [krispy.arena@gmail.com](mailto:krispy.arena@gmail.com)
 
 Project Link: [https://github.com/krispyarena/todo-react](https://github.com/krispyarena/todo-react)
 
